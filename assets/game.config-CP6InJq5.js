@@ -1,0 +1,1 @@
+const a="My MMA World",t="마이 MMA 월드",e="2016-01-01",o="2016-01-01",n="ko",s={game_name:a,game_name_ko:t,start_date:e,data_as_of:o,default_language:"ko"};export{o as data_as_of,s as default,n as default_language,a as game_name,t as game_name_ko,e as start_date};
